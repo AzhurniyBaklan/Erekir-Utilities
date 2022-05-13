@@ -1,0 +1,24 @@
+{
+	"name": "Combustion Chamber",
+	"size": 3,
+	"description": "Burns graphite and outputs power.",
+	"hasLiquids": false,
+	"powerProduction": 1.75,
+	"itemDuration": 90,
+	"itemCapacity": 15,
+	"hasItems": true,
+	"consumes": {
+		"items": {
+			"items": [
+				"graphite/3"
+			]
+		}
+	},
+	"requirements": [
+		"beryllium/80",
+		"silicon/60",
+		"graphite/80"
+	],
+	"research": "turbine-condenser",
+	"category": "power"
+}
