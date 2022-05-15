@@ -3,8 +3,8 @@
 	"size": 3,
 	"description": "Burns graphite and outputs power.",
 	"hasLiquids": false,
-	"powerProduction": 1.5,
-	"itemDuration": 120,
+	"powerProduction": 2,
+	"itemDuration": 180,
 	"itemCapacity": 15,
 	"hasItems": true,
 	"consumes": {
