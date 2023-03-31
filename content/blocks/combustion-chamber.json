@@ -1,7 +1,5 @@
 {
-	"name": "Combustion Chamber",
 	"size": 3,
-	"description": "Burns graphite and outputs power.",
 	"hasLiquids": false,
 	"powerProduction": 2,
 	"itemDuration": 180,
